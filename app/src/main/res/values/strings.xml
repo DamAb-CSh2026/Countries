@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Страны мира</string>
+    <string name="search_hint">Поиск страны…</string>
+</resources>
